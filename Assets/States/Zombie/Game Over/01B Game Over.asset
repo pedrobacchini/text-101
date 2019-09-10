@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96868739976cc49daa204f003ff6e400, type: 3}
+  m_Name: 01B Game Over
+  m_EditorClassIdentifier: 
+  storyText: "O sangue da menina jorra em minha roupa, marcando tamb\xC8m o ch\u201Eo
+    do acampamento. Ela cai.\r\n\tSigo na dire\xC1\u201Eo do homem, ele parece ser
+    o mais forte. Talvez o derrubando eu consiga sair desta situa\xC1\u201Eo.\r\n\tAo
+    me aproximar do homem, a mulher tamb\xC8m se aproxima de mim.\r\n\tConsigo me
+    esgueirar dos dois dando um salto para tr\xB7s, trope\xC1ando no corpo ca\xCCdo.\r\n\tAh,
+    droga! A garota ainda est\xB7 se mexendo. Ela agarrou o meu p\xC8... Ahhh!!\r\n\tCada
+    mordida d\xDBi como uma navalhada, criaturas famintas dilacerando-me a carne\xD6\r\n\r\n\tO
+    personagem morre tendo o corpo devorado por aqueles tr\xCDs mortos vivos."
+  nextStates:
+  - {fileID: 11400000, guid: 1a8eaa9e73a824f9186d93d89da01a31, type: 2}

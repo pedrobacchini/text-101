@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96868739976cc49daa204f003ff6e400, type: 3}
+  m_Name: 01A Game Over
+  m_EditorClassIdentifier: 
+  storyText: "MORTE...\r\n\tEu me viro na dire\xC1\u201Eo do barulho, com a faca em
+    m\u201Eos...\r\n\tDeparo-me com um homem, uma mulher e uma menininha. Logo noto
+    que h\xB7 algo errado com eles...\r\n\tMesmo \u2021 t\xCDnue luz da fogueira percebo
+    que a garotinha tem uma ferida feia no pesco\xC1o, o sangue ainda desce devagar.\r\n\tEssa
+    garota ainda segura com toda a sua for\xC1a um urso de pel\u02D9cia ensanguentado.\r\n\tO
+    homem tem um ferimento grave em sua perna.\r\n\tAo lado desse homem h\xB7 uma
+    mulher com uma ferida horr\xCCvel no queixo.\r\n\tEles se aproximam ignorando
+    o meu pedido de que parem.\r\n\tA menina se adianta em um salto animalesco, apresentando
+    um olhar perdido e dentes escancarados...\r\n\tVejo-me obrigado a reagir. Dou
+    uma, duas, tr\xCDs facadas nela. Isso foi muito estranho...\r\n\n1 - Continua..."
+  nextStates:
+  - {fileID: 11400000, guid: 1962aef5dbc114c3790a9ea75638cdb6, type: 2}

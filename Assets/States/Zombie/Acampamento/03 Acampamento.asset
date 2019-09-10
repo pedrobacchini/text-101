@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96868739976cc49daa204f003ff6e400, type: 3}
+  m_Name: 03 Acampamento
+  m_EditorClassIdentifier: 
+  storyText: "\tAquele garoto maltrapilho saiu correndo h\xB7 uns minutos.\r\n\r\n\tN\u201Eo
+    tem como eu saber se ele vai sobreviver. Ele j\xB7 estava ferido, talvez j\xB7
+    esteja morto.\r\n\r\n\tDo que ser\xB7 que ele estava fugindo, afinal? Talvez n\u201Eo
+    seja problema meu.\r\n\r\n\tUm grito estridente, ao longe, corta o sil\xCDncio
+    da noite.\r\n\r\n\tFico em alerta. Ou\xC1o passos pr\xDBximos...\n\n1 - Sacar
+    a faca.\r\n2 - Correr.\r"
+  nextStates:
+  - {fileID: 11400000, guid: ae15019853a624f5890cf47dbcf514db, type: 2}
+  - {fileID: 11400000, guid: a18207ba295544e95b8be1cbac1214c0, type: 2}

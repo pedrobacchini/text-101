@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96868739976cc49daa204f003ff6e400, type: 3}
+  m_Name: 02 Acampamento
+  m_EditorClassIdentifier: 
+  storyText: "\tEis que me surge de um canto um garoto com o bra\xC1o ferido.\r\n\r\n\tO
+    menino de no m\xB7ximo treze anos tem as roupas e o corpo enlameados, o semblante
+    desesperado e arfa como se o cora\xC1\u201Eo viesse \u2021 boca.\r\n\r\n\tEle
+    diz que \"monstros\" o est\u201Eo seguindo...\n\n1 - Crer nas palavras do garoto.
+    Correndo com ele dali.\r\n2 - Ignorar o garoto. Dizendo que ele v\xB7 na frente
+    e ficando no acampamento.\r"
+  nextStates:
+  - {fileID: 11400000, guid: 4f71094570fad474aaabff1bc384b28f, type: 2}
+  - {fileID: 11400000, guid: a7e7b5bb0a43c4963984b72433e84630, type: 2}
